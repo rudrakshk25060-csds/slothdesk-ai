@@ -1,0 +1,16 @@
+COURSE SYLLABUS: CS101 - Introduction to Algorithms & Systems
+Instructor: Dr. Maya Lin (Office: Turing Hall 304)
+Term: Fall Semester 2026
+
+Course Overview:
+This course provides a comprehensive introduction to computational thinking, asymptotic runtime analysis, data structures, and safe concurrency.
+
+Important Course Milestones & Deadlines:
+1. Assignment 1: Runtime Complexity Analysis due on 2026-10-24 at 23:59.
+2. Project Proposal: System Architecture Draft due on 2026-10-28 at 17:00.
+3. Midterm Examination: In-person hall testing on 2026-11-04 at 10:00 AM.
+4. Final Capstone Submission: Complete open-source project submission due on 2026-11-20.
+
+Grading Policy:
+Assignments 30%, Midterm 25%, Final Capstone 35%, Active Participation 10%.
+Please submit all work via the student portal on time.

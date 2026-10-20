@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  slothdesk-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: slothdesk-ai
+    ports:
+      - "8000:8000"
+    environment:
+      - ENVIRONMENT=production
+      - OLLAMA_BASE_URL=http://ollama:11434
+      - OLLAMA_MODEL=gemma3:4b
+      - DATABASE_URL=sqlite:////app/backend/data/slothdesk.db
+    volumes:
+      - slothdesk-data:/app/backend/data
+    depends_on:
+      - ollama
+    restart: unless-stopped
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: slothdesk-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama-models:/root/.ollama
+    restart: unless-stopped
+
+volumes:
+  slothdesk-data:
+  ollama-models:

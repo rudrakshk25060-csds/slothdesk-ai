@@ -1,0 +1,24 @@
+INVOICE #INV-2026-881
+Acme Cloud Services LLC
+100 Innovation Way, Suite 400
+San Francisco, CA 94105
+
+Billed To:
+SlothDesk Demo Client
+Project Code: HACKTOBER-W3
+
+Invoice Date: October 18, 2026
+Payment Due Date: 2026-10-27
+
+Line Items:
+1. High-Performance Compute Cluster (Gemma 3 local sandbox) - $120.00
+2. Storage Allocation (Local encrypted volumes 50GB) - $15.00
+3. Technical Advisory & Security Audit - $250.00
+
+Subtotal: $385.00
+Taxes (0%): $0.00
+Total Due: $385.00 USD
+
+Payment Instructions:
+Please remit payment via ACH or corporate wire transfer by 2026-10-27.
+Late payments will incur a 1.5% fee per billing cycle.

@@ -1,0 +1,15 @@
+MUTUAL INDEPENDENT CONTRACTOR AGREEMENT
+Date: October 15, 2026
+Parties: Studio Sloth ("Client") and Alex Mercer ("Designer")
+
+Scope of Work:
+Designer agrees to deliver high-fidelity UI/UX mockups, design tokens, and SVG icon assets for the desktop application "SlothDesk AI".
+
+Deliverables and Key Dates:
+- Wireframes & Color Palette: Due by 2026-10-22
+- Interactive Prototype & Component Library: Due by 2026-10-26
+- Final Icon Set & Brand Package: Due by 2026-10-31
+
+Compensation:
+Total fee of $2,400 payable in three installments upon milestone completion.
+All intellectual property rights transfer to Client upon final payment.
